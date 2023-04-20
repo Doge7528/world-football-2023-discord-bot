@@ -1,0 +1,4 @@
+$title[Saldo Bancário]
+$description[
+Você atualmente tem `$getUserVar[dinheiro;$mentioned[1;yes]]` reais!]
+$color[993399]

@@ -1,0 +1,10 @@
+$title[Lista de Comandos]
+$description[
+
+Recompensa Diária | .daily
+Contratar | .contratar <Nome do Jogador>
+PlayerInfo | .playerinfo <Nome do Jogador>
+Saldo | .saldo
+Contratos | .contratos
+$image[https://i.imgur.com/krZU5X6.png]]
+$color[993399]

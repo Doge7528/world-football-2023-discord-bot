@@ -1,0 +1,7 @@
+$title[Contratos]
+$description[
+
+$getUserVar[jogador1;$authorID]
+$getUserVar[jogador2;$authorID]
+$getUserVar[jogador3;$authorID]]
+$color[993399]

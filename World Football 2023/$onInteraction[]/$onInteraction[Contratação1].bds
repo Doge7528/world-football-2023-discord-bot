@@ -1,0 +1,5 @@
+$nomention
+$setUserVar[jogador1;Marcelo Ranges;$authorID]
+$sendMessage[Esse jogador foi contratado com sucesso!]
+$setUserVar[dinheiro;$sub[1045000;1045000];$authorID]
+$removeButtons

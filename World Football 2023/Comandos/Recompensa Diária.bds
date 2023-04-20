@@ -1,0 +1,8 @@
+$title[Recompensa Diária]
+$description[
+Olá! Você coletou sua recompensa diária!
+Para verificar o dinheiro ganho, use `.saldo`] 
+$setUserVar[dinheiro;$sum[$random[50000;300000]];$authorID]]
+$setUserVar[daily;$cooldown[84600s;Espere `1 dia` para usar este comando novamente!];$authorID]
+$color[993399]
+$getUserVar[daily;$mentioned[1;yes]]]
